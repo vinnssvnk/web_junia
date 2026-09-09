@@ -1,8 +1,8 @@
 # web technologies practice
 
 ## To-do list
-- [] Clone repo
-- [] Push it
+- [x] Clone repo
+- [x] Push it
 
 ## Conclusion
 Goodbye
